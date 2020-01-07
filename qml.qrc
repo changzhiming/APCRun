@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>APCCommon/APCScript_Control.js</file>
+        <file>APCCommon/Common.qml</file>
+        <file>APCCommon/qmldir</file>
+        <file>MQTTClient.qml</file>
+    </qresource>
+</RCC>
